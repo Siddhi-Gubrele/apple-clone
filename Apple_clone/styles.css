@@ -1,0 +1,49 @@
+.top{
+    background-color:#555555 ;
+    height:50px;
+    width:100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.p1{
+    display: inline;
+    margin-right: 35px;
+    color:rgb(206, 206, 206);
+    font-size: 13px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 350;
+}
+.inside-top{
+    position: relative;
+    left: 15%;
+    top: 10px;
+}
+.top-image{
+    height: 20px;
+    width: 20px;
+    margin-right: 35px;
+    /* margin-top: ; */
+    
+}
+.iphone14{
+    text-align: center;
+    height: 700px;
+    width: 100%;
+    position: relative;
+    top: 55px;
+}
+.ip-h1{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 500;
+    font-size: 55px;
+    margin-bottom: 0px;
+}
+.bb{
+    margin-top: 5px;;
+    font-size: 25px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 350;
+    
+    letter-spacing: 0.5px;   
+}
